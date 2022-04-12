@@ -14,7 +14,7 @@ Spring MVCを使用して、ThymeleafのHTMLにJavaコードから情報を埋�
 
 Webページ上で言語やアプリに必要な依存を選択するだけで初期環境が作成され、Zipでダウンロードできます。
 
-![image-20220412172411253](C:\Users\future\Documents\GitHub\springboot-tutorial\images\image-20220412171907905.png)
+![image-20220412172411253](https://github.com/hawkskf/springboot-tutorial/blob/master/images/image-20220412171907905.png)
 
 Maven、Java11で作成することにします。
 
